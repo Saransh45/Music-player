@@ -20,7 +20,7 @@ This is a simple and interactive music player application that allows users to p
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/music-player.git
+   git clone https://github.com/Saransh45/music-player.git
    ```
 2. Navigate to the project directory:
    ```sh
